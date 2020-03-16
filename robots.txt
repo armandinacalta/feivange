@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://raipebahp.orenchuk.dev/sitemap.xml
